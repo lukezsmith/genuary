@@ -1,10 +1,7 @@
-// flow field points
-var particles = [];
 // particle config
-// const numParticles = 00;
+var particles = [];
 const noiseScale = 500;
 const noiseStrength = 2;
-// var particles = [numParticles];
 
 // color config
 const colorWeights = [0.5, 0.25, 0.1, 0.05, 0.05, 0.05];
